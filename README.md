@@ -1,2 +1,2 @@
-# vickycomeau
+# vicky-portfolio
 My personal portfolio
